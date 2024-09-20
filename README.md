@@ -12,8 +12,6 @@
   <h2>REPOSITÓRIO TRABALHO CALCULADORA</h2>
   <a>https://github.com/odairmichaelbendotti/Santander-Coders/tree/235286f2e2a52332790df427c8b039e57f0e7229/00-Empregabilidade/01-projeto-calculadora</a>
 </p>
-<p></p>
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=odairmichaelbendotti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
