@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Odair e sou um Desenvolvedor Web Fullstack.</p>
+<p align="left">Meu nome é Odair e sou Desenvolvedor Web Fullstack.</p>
 
 ###
 
