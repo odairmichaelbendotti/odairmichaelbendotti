@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Sobre mim<br>🚀 Criando soluções desde 2021<br>🌱 Vou aprender Angular até dez/24.<br>🎯 Meta: melhorar a cada dia.</p>
+<p align="left">Sobre mim<br>🚀 Criando soluções desde 2021.<br>🌱 Objetivo: Aprender Angular.<br>🎯 Meta: melhorar a cada dia.</p>
 
 ###
 
