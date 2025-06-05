@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Sobre mim<br>🚀 Criando soluções web.<br>🌱 Objetivo: Aprender Angular.<br>🎯 Meta: melhorar a cada dia.</p>
+<p align="left">Sobre mim<br>🚀 Criando soluções web.<br>🎯 Meta: melhorar a cada dia.</p>
 
 ###
 
