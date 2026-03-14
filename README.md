@@ -1,8 +1,8 @@
-<h1 align="left">Seja muito bem-vindo! 👋</h1>
+<h1 align="left">Welcome! 👋</h1>
 
 ###
 
-<p align="left">Meu nome é Odair e sou Desenvolvedor Web Fullstack.</p>
+<p align="left">My name is Odair and i'm a Fullstack Software Engineer.</p>
 
 ###
 
@@ -13,11 +13,45 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odairmichaelbendotti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Sobre mim<br>🚀 Criando soluções web.<br>🎯 Meta: melhorar a cada dia.</p>
+<p align="left">
+About me<br>
+🚀 Building web solutions and scalable applications.<br>
+🧠 Focus on software architecture and maintainable systems.<br>
+🧪 Experience with automated testing (unit and integration tests).<br>
+🏗️ Applying Clean Code practices, SOLID principles, and Domain-Driven Design (DDD).<br>
+☁️ Working with cloud technologies such as AWS.<br>
+🎯 Goal: continuously improving as a software engineer.
+</p>
+
+###
+
+<h2 align="left">Experience</h2>
+
+💻 Software Engineer<br>
+- Web application and API development<br>
+- Database integration and data modeling<br>
+- Git version control and collaborative workflows<br>
+- Cloud services with AWS<br>
+- Software architecture and scalable system design<br>
+- Automated testing (unit and integration tests)<br>
+- Clean Code practices and maintainable codebases<br>
+- Application of SOLID principles and design patterns<br>
+- Domain-Driven Design (DDD) concepts<br><br>
+
+✈️ Brazilian Air Force Experience<br>
+- Work in a disciplined and process-oriented environment<br>
+- Experience working with systems and technology<br>
+- Strong focus on responsibility, organization, and teamwork<br><br>
+
+🎓 Academic Background<br>
+- Civil Engineering (2018)<br>
+- Systems Analysis and Development (2025)<br>
+- Software Engineering (2027)<br>
+- Postgraduate Degree in Applied AI Engineering (2027)
 
 ###
 
