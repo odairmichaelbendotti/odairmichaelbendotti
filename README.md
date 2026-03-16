@@ -63,8 +63,7 @@ My name is Odair and I'm a Full-Stack Software Engineer focused on building scal
 <h4 align="left">🔧 Tools</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" title="Git"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="Git" width="40" />
 </div>
 
 ---
