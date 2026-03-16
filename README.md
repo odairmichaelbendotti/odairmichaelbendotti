@@ -80,7 +80,6 @@ My name is Odair and I'm a Full-Stack Software Engineer focused on building scal
 <h2 align="left">Experience</h2>
 
 💻 Software Engineer<br>
-
 - Web application and API development<br>
 - Database integration and data modeling<br>
 - Git version control and collaborative workflows<br>
@@ -91,8 +90,7 @@ My name is Odair and I'm a Full-Stack Software Engineer focused on building scal
 - Application of SOLID principles and design patterns<br>
 - Domain-Driven Design (DDD) concepts<br><br>
 
-✈️ Brazilian Air Force Experience<br>
-
+Brazilian Air Force Experience<br>
 - Work in a disciplined and process-oriented environment<br>
 - Experience working with systems and technology<br>
 - Strong focus on responsibility, organization, and teamwork<br>
@@ -100,7 +98,6 @@ My name is Odair and I'm a Full-Stack Software Engineer focused on building scal
 ---
 
 <h2 align="left">Education</h2>
-
 🎓 Civil Engineering (2018)<br>
 🎓 Systems Analysis and Development (2025)<br>
 🎓 Software Engineering (2027)<br>
